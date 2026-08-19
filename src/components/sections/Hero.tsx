@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
+import HeroSearchCard from './HeroSearchCard';
 
 export default function Hero() {
   const { t } = useTranslation();
@@ -13,6 +14,11 @@ export default function Hero() {
             <Text transform="uppercase">Welcome to</Text>
             <Heading>{import.meta.env.VITE_GOVERNMENT_NAME}</Heading>
             <Text>{t('hero.subtitle')}</Text>
+          </div>
+
+          {/* Right section with quick service search */}
+          <div className="animate-fade-in">
+            <HeroSearchCard />
           </div>
         </div>
       </div>
