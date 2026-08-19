@@ -1,0 +1,7 @@
+# Transparency Documents Pages
+# This file contains all the pages available under Transparency Documents
+
+pages:
+  - name: 'Transparency Documents'
+    slug: 'overview'
+    description: 'Full Disclosure Policy documents, the Citizen Charter, and other transparency and accountability records published by the City Government of Caloocan.'

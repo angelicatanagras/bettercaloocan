@@ -1,0 +1,7 @@
+# Reports and Statistics Pages
+# This file contains all the pages available under Reports and Statistics
+
+pages:
+  - name: 'Statistics'
+    slug: 'statistics'
+    description: 'Population and demographic data for the City of Caloocan, sourced from the Philippine Statistics Authority.'
