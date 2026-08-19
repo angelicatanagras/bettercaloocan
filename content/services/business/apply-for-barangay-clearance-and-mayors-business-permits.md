@@ -14,16 +14,18 @@
 
 ## Step 2: Apply for Business Permit
 
-Go to **Lapu-Lapu City BPLO** (Business Permit and Licensing Office).
+Go to the **Caloocan City BPLO** (Business Permit and Licensing Office).
 
 **Requirements:**
 
-- Unified Application Form
+- Unified Application Form (new: [DICT_ApplicationForm_New.pdf](https://online.caloocancity.gov.ph/DICT_ApplicationForm_New.pdf); renewal: [Application_BP_Renewal.pdf](https://online.caloocancity.gov.ph/Application_BP_Renewal.pdf))
 - SEC Certificate of Registration + Articles of Partnership
 - Occupancy Permit (if owner) OR Lease Contract (if renting)
 - Community Tax Certificate (CTC)
 
-Apply in person or online via [Lapu-Lapu Online Business Permit Portal](https://businesspermit.lapulapucity.gov.ph/).
+Apply in person or online via the [Caloocan City Web Service Portal](https://online.caloocancity.gov.ph/) — you'll receive a verification link by email, activate your account, then submit your application. Payment can be made online via LandBank e-payment, or over the counter at City Hall.
+
+> **BPLO Contact:** Tel. 53365692 / 53365708 · Email: bplo@caloocancity.gov.ph
 
 > Note: Inspections may include zoning, sanitary, and fire safety checks.
 
@@ -52,14 +54,14 @@ Enroll with:
 
 1. SEC name check + register via [SEC eSPARC](https://espac.sec.gov.ph/)
 2. Secure Barangay Certification + site/lease documents
-3. Apply for Business Permit at [Lapu-Lapu BPLO](https://businesspermit.lapulapucity.gov.ph/)
+3. Apply for Business Permit via the [Caloocan City Web Service Portal](https://online.caloocancity.gov.ph/) or in person at the BPLO
 4. File BIR Form 1903 → apply ATP → register books
 
 ## Document Checklist
 
 - [ ] SEC Articles of Partnership + SEC Certificate
 - [ ] Lease Contract OR Occupancy/Building docs
-- [ ] Lapu-Lapu BPLO Unified Application Form + CTC
+- [ ] Caloocan BPLO Unified Application Form + CTC
 - [ ] BIR Form 1903, IDs, ATP/Books
 
-With these steps, your partnership in Lapu-Lapu City will be fully compliant and ready to operate!
+With these steps, your partnership in the City of Caloocan will be fully compliant and ready to operate!

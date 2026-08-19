@@ -1,6 +1,6 @@
-# Enroll Children in LGU Daycare or Preschool Programs — Lapu-Lapu City
+# Enroll Children in LGU Daycare or Preschool Programs — City of Caloocan
 
-The Lapu-Lapu City Government, through the **City Social Welfare and Development Office (CSWDO)** and barangays, operates **daycare centers** and supports **public preschool education**.
+The City Government of Caloocan, through the **City Early Childhood Care and Development Office** and barangays, operates **daycare centers** and supports **public preschool education**.
 
 ---
 
@@ -66,8 +66,8 @@ The Lapu-Lapu City Government, through the **City Social Welfare and Development
 ## Contact & Updates
 
 - **Barangay Daycare Centers** — Enrollment schedules and requirements are usually announced by barangay officials.
-- **City Social Welfare and Development Office (CSWDO)** — Oversees daycare programs.
-- **DepEd Lapu-Lapu City Division** — Manages public kindergarten enrollment.
+- **City Early Childhood Care and Development Office** — Oversees daycare programs.
+- **DepEd Schools Division Office – Caloocan City** — Manages public kindergarten enrollment. Corner P. Sevilla St., 10th Avenue, Caloocan City · caloocan.city@deped.gov.ph · [depedcaloocan.com](https://depedcaloocan.com)
 
 ---
 

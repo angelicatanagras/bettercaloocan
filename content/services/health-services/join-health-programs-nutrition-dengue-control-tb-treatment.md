@@ -1,6 +1,6 @@
-# Join Health Programs — Lapu-Lapu City (Nutrition, Dengue Control, TB Treatment)
+# Join Health Programs — City of Caloocan (Nutrition, Dengue Control, TB Treatment)
 
-Below are city-led and national programs you can join through your **Barangay Health Center** and the **City Health Office (CHO)**.
+Below are city-led and national programs you can join through your **Barangay Health Center** and the **City Health Department (CHD)**.
 
 ---
 
@@ -20,7 +20,7 @@ Below are city-led and national programs you can join through your **Barangay He
 **How to join**
 
 1. Visit your **Barangay Health Center** or ask the **Barangay Nutrition Scholar (BNS)** about ongoing feeding programs.
-2. Join community activities and city-wide nutrition events announced by the **City Health Office (CHO)** or City Information Office.
+2. Join community activities and city-wide nutrition events announced by the **City Health Department (CHD)** or Public Affairs and Information Division.
 
 **Cost:** Free for eligible beneficiaries.
 
@@ -32,7 +32,7 @@ Below are city-led and national programs you can join through your **Barangay He
 
 - Community clean-up drives under the **ABKD (Aksyon Barangay Kontra Dengue)** program.
 - Daily “4 o’clock habit” — searching and destroying mosquito breeding sites.
-- Misting, fogging, and entomological surveys led by the CHO.
+- Misting, fogging, and entomological surveys led by the CHD.
 - Information campaigns during Dengue Awareness Month and rainy season.
 
 **How to join**
@@ -53,7 +53,7 @@ Below are city-led and national programs you can join through your **Barangay He
 
 **Where**
 
-- Lapu-Lapu City Health Office (DOTS facility) and affiliated barangay health centers.
+- City Health Department (DOTS facility) and affiliated barangay health centers.
 
 **How to join**
 
@@ -68,8 +68,8 @@ Below are city-led and national programs you can join through your **Barangay He
 ## Contact & Updates
 
 - **Barangay Health Centers** — First point of contact for nutrition, dengue, and TB programs.
-- **Lapu-Lapu City Health Office (CHO)** — Main office for program schedules and services.
-- **City Information Office** — Posts updates on city-wide campaigns and health events.
+- **City of Caloocan Health Office (CHO)** — Main office for program schedules and services.
+- **Public Affairs and Information Division** — Posts updates on city-wide campaigns and health events.
 
 ---
 

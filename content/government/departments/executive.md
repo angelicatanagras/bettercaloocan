@@ -43,15 +43,15 @@ Outside of official duties, Mayor **{MAYOR}** works closely with barangay leader
 
 ### Mayor's Community Assistance Program
 
-During the current term, Mayor **{MAYOR}** supports several initiatives aimed at improving the welfare of residents under the theme **"[PROGRAM THEME]"**.
+During the current term, Mayor **{MAYOR}** supports several initiatives aimed at improving the welfare of residents under the theme **"Aksyon at Malasakit"** (Action and Care).
 
 Programs supported include:
 
-- **[PROGRAM NAME 1]** – Supporting education and youth development
-- **[PROGRAM NAME 2]** – Providing livelihood assistance to families
-- **[PROGRAM NAME 3]** – Strengthening disaster preparedness and community resilience
+- **Free Tuition Program** (City Ordinance No. 0553) – Free tuition at the University of Caloocan City; over 30,000 students have graduated tuition-free since the ordinance took effect
+- **₱500 Cash Gift for Senior Citizens** (City Ordinance No. 0984) – Approved within the Mayor's first 100 days in office, alongside a birthday cash gift and package for senior citizens
+- **Job Fairs and Livelihood Assistance** – Regular job fairs, local recruitment activities, and livelihood assistance for residents
 
-You can read more about these initiatives on the **Mayor's Community Programs page**.
+You can read more about these initiatives on the **Mayor's Corner page**.
 
 ---
 
@@ -152,14 +152,14 @@ These roles reflect the legacy of leadership and public service within the commu
 City/Municipal Hall of **{GOVERNMENT_NAME}**
 
 **Address:**
-[STREET ADDRESS]
-[CITY / PROVINCE / POSTAL CODE]
+8th Avenue, Grace Park East
+Caloocan City, Metro Manila, 1400
 
 **Telephone:**
-[PHONE NUMBER]
+(02) 8288-5716
 
 **Email:**
-[EMAIL ADDRESS]
+Not publicly listed — contact the Office of the Mayor by phone or through the official website.
 
 **Website:**
-[OFFICIAL WEBSITE URL]
+[caloocancity.gov.ph](https://caloocancity.gov.ph)

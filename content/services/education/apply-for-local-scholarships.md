@@ -1,53 +1,50 @@
-# Apply for Local Scholarships — Lapu-Lapu City
+# Apply for Local Scholarships — City of Caloocan
 
-Use this guide to find **City/LGU**, **Congressional/partner**, **local college**, and **national** scholarship options you can apply for while based in **Lapu-Lapu City**.
+Use this guide to find **City/LGU**, **local college**, and **national** scholarship options you can apply for while based in the **City of Caloocan**.
 
 ---
 
-## 1) City/LGU Scholarship Programs
+## 1) City/LGU Scholarship & Incentive Programs
 
-| Program                                           | Who it’s for                                                                                           | What it covers\*                                                          | Where to apply                  | Notes                                                                                                                                                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City Government College Scholarship** | Lapu-Lapu City residents (typically Senior High / incoming college; priority to low-income households) | Tuition/fees or full scholarship, depending on intake and partner schools | City Hall / posted online calls | The city has historically opened slots for poor residents and tied these to local HEIs during certain intakes. Check latest calls from City Hall / Office of the Mayor. :contentReference[oaicite:0]{index=0} |
-
-\*Coverage varies by year/partner school; always verify the current announcement.
+| Program                                            | Who it's for                                                                     | What it covers                                        | Where to apply                  | Notes                                                                                                             |
+| -------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **University of Caloocan City (UCC) Free Tuition** | Caloocan residents pursuing a college degree                                     | Free tuition (minimal miscellaneous fees still apply) | UCC admissions                  | The city's own local university; a standing option, not a limited-slot call.                                      |
+| **City Academic Excellence Incentive**             | Top-performing public school students (recent round: 222 students, ₱10,000 each) | Cash incentive                                        | Coordinated through your school | Nominees are typically submitted by schools based on academic standing; watch for the school year's announcement. |
 
 **How to apply (typical flow)**
 
-1. Watch for the **official call for applications** from the **Lapu-Lapu City Government** (FB/website or City Information Office). :contentReference[oaicite:1]{index=1}
+1. Watch for the **official call for applications/nominations** from the **City Government of Caloocan** (Public Affairs and Information Division, FB/website).
 2. Prepare documents (see **Common Requirements** below).
-3. Submit your application at the designated **LGU window/online form** and attend evaluation/orientation if shortlisted.
+3. Submit at the designated window or through your school, and attend evaluation/orientation if shortlisted.
 
 ---
 
-## 2) Congressional / Partner Scholarship Slots
+## 2) Congressional / District Scholarship Programs
 
-| Program                                                                                       | Who it’s for                                   | What it covers                                          | Where to apply                                                                   | Notes                                                                                                                |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Mayor Junard “Ahong” Chan & First Lady Ma. Cynthia King-Chan Scholarship** (periodic calls) | City residents, course/partner-school specific | Tuition assistance/full scholarship depending on cohort | Calls posted by the **Office of the Mayor** / **Office of Rep. Cindi King-Chan** | Look for official FB announcements with the **requirements and deadlines**. :contentReference[oaicite:2]{index=2}    |
-| **International/partner school opportunities**                                                | Senior High/college grads                      | Tuition discounts/scholarships via MOUs                 | Via partner school announcements & City coordination                             | Example: Taiwan partner university opportunities highlighted by city partners. :contentReference[oaicite:3]{index=3} |
+Caloocan has three congressional districts, each with its own representative. District offices sometimes run their own scholarship or education-assistance programs, but this guide could not verify a currently active, named program for any of the three districts — check directly with your district's congressional office for the latest offering.
+
+- **1st District:** Rep. Oscar "Oca" Malapitan
+- **2nd District:** Rep. Mary Mitzi "Mitch" Cajayon-Uy
 
 ---
 
 ## 3) Local Colleges & Their In-House Scholarships
 
-| School                                         | Scholarship page/info                                                        | Notes                                                                                                                                 |
-| ---------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City College (LLCC)**              | School site lists contacts; ask registrar/scholarship desk for current slots | City college; scholarship rules and timing set per semester. :contentReference[oaicite:4]{index=4}                                    |
-| **University of Cebu** (Mactan/Main system)    | Public scholarship lists & requirements                                      | UC posts scholarship requirements (e.g., academic honors, docs). Availability varies by campus. :contentReference[oaicite:5]{index=5} |
-| **LCIC (Lapulapu-Cebu International College)** | Scholarship page with program specifics                                      | Has its own discounts/scholarships; separate from LGU. :contentReference[oaicite:6]{index=6}                                          |
+| School                                                                             | Scholarship page/info                                                     | Notes                                                                                         |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **University of Caloocan City (UCC)**                                              | Ask the registrar/admissions office                                       | The city's public university — free tuition for residents (see above).                        |
+| **Manila Central University – Filemon D. Tanchoco Medical Foundation (MCU-FDTMF)** | [mcu.edu.ph/scholarships-grants](https://mcu.edu.ph/scholarships-grants/) | Private university with its own in-house scholarships and grants; separate from LGU programs. |
 
-> Tip: Even if you’re targeting an **LGU scholarship**, apply to your target school’s **in-house scholarship** too. Slots stack or complement depending on rules.
+> Tip: Even if you're targeting an **LGU scholarship**, apply to your target school's **in-house scholarship** too. Slots stack or complement depending on rules.
 
 ---
 
-## 4) National Programs You Can Apply For While Based in Lapu-Lapu
+## 4) National Programs You Can Apply For While Based in Caloocan
 
-| Program                                                             | Who it’s for                                                  | Typical coverage                                          | Where to file                                                                                                               |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **CHED Merit Scholarship (CMSP)**                                   | Incoming/continuing college with merit + income criteria      | Stipend + book/tuition assistance (per CHED rules)        | CHED’s official calls/portals (watch national page) :contentReference[oaicite:7]{index=7}                                   |
-| **OWWA EDSP/ODSP** (for OFW dependents)                             | Qualified dependents of active OWWA members                   | EDSP up to ₱60k/yr; ODSP up to ₱20k/yr (amounts per call) | OWWA Scholarship portal; local **PESO Lapu-Lapu** often posts the call window :contentReference[oaicite:8]{index=8}         |
-| **Cebu Province scholarships** (if eligible as provincial resident) | Cebu Province residents (check city/province residency rules) | Tuition/stipend per program                               | Province announcements; verify residency eligibility vs. highly urbanized city status :contentReference[oaicite:9]{index=9} |
+| Program                                 | Who it's for                                             | Typical coverage                                          | Where to file                                                                |
+| --------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **CHED Merit Scholarship (CMSP)**       | Incoming/continuing college with merit + income criteria | Stipend + book/tuition assistance (per CHED rules)        | CHED's official calls/portals (watch national page)                          |
+| **OWWA EDSP/ODSP** (for OFW dependents) | Qualified dependents of active OWWA members              | EDSP up to ₱60k/yr; ODSP up to ₱20k/yr (amounts per call) | OWWA Scholarship portal; local **PESO Caloocan** often posts the call window |
 
 ---
 
@@ -57,7 +54,7 @@ Use this guide to find **City/LGU**, **Congressional/partner**, **local college*
 - **Birth certificate** (PSA)
 - **Report card/grades** (JHS/SHS/college)
 - **Good moral certificate** (from school)
-- **Income documents** (parents’ ITR/Certificate of Non-Filing/indigency, depending on program)
+- **Income documents** (parents' ITR/Certificate of Non-Filing/indigency, depending on program)
 - **Photos/ID** (2×2 or passport size)
 - **Admission/Enrollment proof** (if already admitted)
 
@@ -68,7 +65,7 @@ Use this guide to find **City/LGU**, **Congressional/partner**, **local college*
 ## Step-by-Step: How to Apply
 
 1. **Pick your target programs**
-   - City/LGU scholarship (watch City Hall channels), school-based scholarship, and at least one national program.
+   - City/LGU option (UCC free tuition or the academic incentive), a school-based scholarship, and at least one national program.
 
 2. **Check the current call**
    - Read the **eligibility, coverage, and deadline**. Save the announcement.
@@ -89,19 +86,9 @@ Use this guide to find **City/LGU**, **Congressional/partner**, **local college*
 
 ## Where to Watch for Announcements
 
-- LCIC’s website → “Scholarship” section
-- University of Cebu’s “Scholarship & Study Grants” page
-- DepEd Lapu-Lapu City’s official site / memorandums
-- City Government announcements (City Hall / Information Office)
-
----
-
-### Example Applications Available Now
-
-- [LCIC Scholarship Page](https://lcic.edu.ph/scholarship.html)
-- [UC Scholarships & Study Grants](https://www.universityofcebu.net/p/scholarship.html)
-- [DOST-SEI S&T Scholarship (Grade 12 applicants)](https://depedlapulapu.net.ph/download/dm-no-723-s-2024-2025-dost-sei-s-t-undergraduate-scholarship-applications-for-grade-12-senior-high-school-students/)
-- [English Access Program (DepEd Lapu-Lapu)](https://depedlapulapu.net.ph/download/dm-no-064-s-2025-english-access-scholarship-program/)
+- MCU-FDTMF's website → "Scholarships & Grants" section
+- DepEd Schools Division Office – Caloocan City's official site / memorandums
+- City Government announcements (Public Affairs and Information Division)
 
 ---
 

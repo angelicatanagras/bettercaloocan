@@ -1,6 +1,6 @@
-# Access Maternal Care & Child Immunization — Lapu-Lapu City
+# Access Maternal Care & Child Immunization — City of Caloocan
 
-The City Health Office (CHO) and barangay health centers provide **prenatal care**, **family planning**, and **free routine child immunization** for residents.
+The City Health Department (CHD) and barangay health centers provide **prenatal care**, **family planning**, and **free routine child immunization** for residents.
 
 ---
 
@@ -39,11 +39,11 @@ Routine childhood vaccines are provided **free** under the Expanded Program on I
 ## Notes & Extras
 
 - **Medical consultations** at health centers are **free** (Mon–Fri, 8:00 AM–5:00 PM; center schedules apply). Useful if you need a doctor’s assessment alongside prenatal care.
-- The CHO and health centers also run **mother’s classes** and promote **facility-based delivery**; ask your midwife for schedules.
+- The CHD and health centers also run **mother’s classes** and promote **facility-based delivery**; ask your midwife for schedules. For facility-based delivery, Caloocan City Medical Center and Caloocan City North Medical Center are the city's government hospitals.
 
 ---
 
 **References**
 
-- [Lapu-Lapu City Government – Services](https://lapulapucity.gov.ph)
+- City Health Department, City Government of Caloocan
 - [Department of Health – Expanded Program on Immunization](https://doh.gov.ph)

@@ -1,116 +1,108 @@
-# Access Educational Support Programs from the LGU — Lapu-Lapu City
+# Access Educational Support Programs from the LGU — City of Caloocan
 
-Below are **city-led** or **LGU-facilitated** programs you can use for study support: free school supplies, e-library access, student employment (SPES) via PESO, scholarships, and cash/education assistance. Links point to official pages or recent announcements.
+Below are **city-led** or **LGU-facilitated** programs you can use for study support: free school supplies, free study space at the City e-Library, student employment (SPES) via PESO, an academic excellence incentive, and free tuition at the University of Caloocan City.
 
 ---
 
-## 1) Free School Supplies (SEF-funded)
+## 1) Free School Supplies (Annual Distribution)
 
 **What it is**
 
-- The City provides **free school supplies** to public school learners using the **Special Education Fund (SEF)**, announced each school year with distribution schedules.
+- Every school year, the City Government distributes **free school supplies** (bags and school materials) to public school learners. Mayor Along Malapitan has personally led distribution events at the start of the school year, and the city has described it as an annual practice.
 
 **How to access**
 
-1. Watch your school’s advisory and the **DepEd Lapu-Lapu** Division memos for **distribution schedules**.
+1. Watch your school's advisory for the announced **distribution date**.
 2. Learners (with parent/guardian) claim supplies at the school on the announced date.
 
 **Links**
 
-- DepEd Lapu-Lapu memo: **Distribution of School Supplies (SEF)** (2025 schedule) — depedlapulapu.net.ph
-- News: **City to distribute free school supplies** — SunStar Cebu (June 7, 2025)
-- City info posts often echo the distribution dates via DepEd/City channels.
+- [Mayor Along leads distribution of school supplies for Caloocan students](https://manilastandard.net/?p=314365951) — Manila Standard
 
 ---
 
-## 2) City e-Library (Free Study Space, Wi-Fi, Computers & Printing)
+## 2) Caloocan City e-Library (Free Study Space, Wi-Fi, Computers & Printing)
 
 **What it is**
 
-- A **government-run e-Library** offering **free internet, computer use, and printing** for students; open **daily 8:00 a.m.–12:00 midnight** at **Hoops Dome, Brgy. Gun-ob**.
+- A **government-run e-Library** offering **free wifi, computer use for research, and printing** for students, located between Caloocan High School and the DepEd Schools Division Office in Barangay 62.
+- Open **Monday–Friday, 8:00 AM–5:00 PM** (except holidays).
 
 **How to access**
 
-1. Go to the **Lapu-Lapu City e-Library (Hoops Dome)** during operating hours.
-2. Sign the logbook; follow usage limits (to give everyone a turn).
+1. Go to the **Caloocan City e-Library** (Barangay 62, near Caloocan High School / SDO Caloocan) during operating hours.
+2. Follow the library's usage policy so everyone gets a turn.
 
 **Links**
 
-- SunStar: **E-Library reopens; open daily 8 a.m.–12 midnight** (July 26, 2025)
-- The POST: **City library reopens, free digital access & printing** (July 28, 2025)
-- Background: **City launched first gov’t e-Library** (2019) — Cebu Daily News
+- [Caloocan offers e-library services to students](https://caloocan.metronewscentral.net/metro-cities/caloocan-offers-e-library-services-to-students)
 
 ---
 
-## 3) Student Employment (SPES) via PESO Lapu-Lapu
+## 3) Student Employment (SPES) via PESO Caloocan
 
 **What it is**
 
-- The **Special Program for the Employment of Students (SPES)** lets poor but deserving **students/OSYs (15–30)** work during breaks to earn and gain experience.
-- Implemented locally through the **Public Employment Service Office (PESO)** with DOLE.
+- The **Special Program for the Employment of Students (SPES)** gives poor but deserving students and out-of-school youth temporary work — typically around 20 days, assigned to different city agencies/departments — during summer or Christmas break to help fund their education.
+- Implemented locally through the **Public Employment Service Office (PESO) Caloocan** with DOLE. More than half of a student's compensation is shouldered by the City Government, with the remainder covered by DOLE.
+- Caloocan's SPES program has hired 800+ students in recent years.
 
 **How to access**
 
-1. Follow **PESO Lapu-Lapu City** on Facebook for **SPES application windows** and job fair advisories.
-2. Prepare IDs, school docs, and income/indigency proofs per announcement.
-3. Submit online or at the PESO office; attend orientation when shortlisted.
+1. Watch **PESO Caloocan City** announcements for SPES application windows.
+2. Prepare IDs, school documents, and income/indigency proof per the announcement.
+3. Submit at the PESO office; attend orientation if shortlisted.
 
 **Links**
 
-- **PESO Lapu-Lapu City** Facebook page (official announcements)
-- DepEd/BLSS-YFD: **SPES 2025 guidelines & timelines**
-- City press: **PESO career fair / youth employment events** — City Information Office
+- [SPECIAL PROGRAM FOR EMPLOYMENT OF STUDENTS & OUT OF SCHOOL YOUTH](https://caloocancity.gov.ph/news/special-program-for-employment-of-students-out-of-school-youth/) — City Government of Caloocan
+- [Caloocan LGU hires more than 800 students under SPES](https://newsinfo.inquirer.net/1797922/caloocan-lgu-hires-more-than-800-students-under-spes) — Inquirer
 
 ---
 
-## 4) LGU-linked Scholarships & Incentives
+## 4) Academic Excellence Incentive & Free Tuition (UCC)
 
 **What it is**
 
-- The City (and Congressional office) **periodically opens scholarship calls** or **educational incentives** for local students, separate from school-based grants.
+- The City Government gives a **cash incentive to top-performing students** (222 students received ₱10,000 each in a recent round) as recognition for academic achievement.
+- The **University of Caloocan City (UCC)**, the city's own local university, offers **free tuition** to Caloocan residents (minimal miscellaneous fees still apply) — a standing option for residents pursuing a college degree without the cost of private tuition.
 
 **How to access**
 
-1. Monitor the **Lapu-Lapu City Government / City Information Office** and the **Office of the Mayor / Congresswoman** for official **calls**.
-2. Prepare residency and academic documents; submit by deadline; attend screening/orientation.
+1. For the top-student incentive: coordinate through your school, which typically submits nominees/honor roll data to the City.
+2. For UCC: apply directly through the University of Caloocan City admissions process as a Caloocan resident.
 
-**Links (examples & history)**
+**Links**
 
-- News: **Lapu-Lapu City offers college scholarship to poor residents** — The Freeman/Philstar (program history)
-- Sample: **Cindi “Skwela” Scholarship** highlights via official pages (video updates)
-- Also check school-based options in-city (e.g., **LCIC scholarships**, **UC scholarships**) which can complement LGU aid.
+- [Caloocan gov't gives P10,000 incentive to 222 top students](https://mb.com.ph/2026/03/30/caloocan-govt-gives-p10000-incentive-to-222-top-students) — Manila Bulletin
 
 ---
 
-## 5) Educational / Cash Assistance (LGU-facilitated with DSWD)
+## 5) Educational / Cash Assistance (National, LGU-coordinated)
 
 **What it is**
 
-- **Educational assistance pay-outs** (e.g., AICS) are nationally run by DSWD but are often **coordinated locally** with the **City** for venue and beneficiary management.
+- **Educational assistance pay-outs** (e.g., AICS — Assistance to Individuals in Crisis Situations) are run nationally by DSWD but are typically **coordinated locally** with the city and barangay for venue and beneficiary management.
 
 **How to access**
 
-1. Watch announcements from **DSWD-7** and the **City Information Office** for **Lapu-Lapu payout schedules**.
+1. Watch announcements from **DSWD-NCR** and the City Government for payout schedules.
 2. Bring student ID, enrollment proof, and required forms on your assigned date.
-
-**Links (context)**
-
-- SunStar Cebu: **Education assistance payout in Lapu-Lapu** (local coverage)
-- Cebu Daily News: **DSWD-7 educational assistance** (program overview & amounts)
 
 ---
 
 ## Quick Directory
 
-- **City Information Office (Lapu-Lapu City)** — city-wide program announcements
-- **PESO Lapu-Lapu City** — SPES, job fairs, recruitment & youth work programs
-- **DepEd Lapu-Lapu Division** — school memos (SEF supplies, schedules)
-- **Lapu-Lapu City e-Library (Hoops Dome, Gun-ob)** — free study space & digital access
+- **Public Affairs and Information Division** — city-wide program announcements
+- **PESO Caloocan City** — SPES, job fairs, recruitment & youth work programs
+- **DepEd Schools Division Office – Caloocan City** — school memos, SEF-related matters
+- **Caloocan City e-Library** — Barangay 62, free study space & digital access
+- **University of Caloocan City (UCC)** — free-tuition local university for residents
 
 ---
 
 ## Tips to Maximize Support
 
-- **Stack benefits** where allowed: e.g., SEF school supplies **+** SPES stipend **+** school-based scholarship.
-- Keep a folder with **PSA Birth Cert**, **Barangay Residency**, **School ID**, **Report Cards/COE**, and **2x2 photos** ready.
-- Turn on notifications for **PESO** and **City Information** pages so you don’t miss application windows.
+- **Stack benefits** where allowed: e.g., free school supplies **+** SPES stipend **+** UCC free tuition.
+- Keep a folder with **PSA Birth Certificate**, **Barangay Residency**, **School ID**, **Report Cards/COE**, and **2x2 photos** ready.
+- Follow **PESO Caloocan** and the city's public information channels so you don't miss application windows.

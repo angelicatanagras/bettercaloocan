@@ -1,4 +1,4 @@
-# Renew Permits and Pay Local Business Taxes — Lapu-Lapu City
+# Renew Permits and Pay Local Business Taxes — City of Caloocan
 
 Use this guide to renew your **Mayor’s/Business Permit** and **Local Business Taxes (LBT)** with the City Government.
 
@@ -6,7 +6,7 @@ Use this guide to renew your **Mayor’s/Business Permit** and **Local Business 
 
 ## Who Must Renew
 
-- All businesses operating in Lapu-Lapu City: **sole proprietors, partnerships, corporations, NGOs, cooperatives, online sellers with local presence**, and professionals with a business office.
+- All businesses operating in the City of Caloocan: **sole proprietors, partnerships, corporations, NGOs, cooperatives, online sellers with local presence**, and professionals with a business office.
 - Renewal applies to **main office and each branch**.
 
 ---
@@ -51,7 +51,7 @@ Use this guide to renew your **Mayor’s/Business Permit** and **Local Business 
 ## Step-by-Step (Walk-In)
 
 1. **Pre-screening / Queuing**
-   - Go to the **Business One-Stop Shop (BOSS)** during the renewal period.
+   - Go to the **BPLO** at Caloocan City Hall (Ground Floor, City Hall–South) during the renewal period; additional renewal locations are announced each January.
    - Get your queue number; submit last year’s permit and basic IDs for pre-check.
 
 2. **Application & Declaration**
@@ -75,13 +75,13 @@ Use this guide to renew your **Mayor’s/Business Permit** and **Local Business 
 
 ---
 
-## (If Available) Online / Hybrid Filing
+## Online / Hybrid Filing
 
-- Some transactions may be done via the city’s **online business portal** or **pre-assessment** channels (if announced).
+- Renewal can be filed through the [Caloocan City Web Service Portal](https://online.caloocancity.gov.ph/) — register with your email, activate your account, then submit your renewal application and documents.
 - Prepare **scanned PDFs** of your documents (clear, legible; 1 file per requirement).
-- After online assessment, proceed to **payment** (e-payment or onsite) and **permit releasing** per instructions.
+- After online assessment, pay via **LandBank e-payment** or onsite at the **City Treasury Department**, then claim your permit per instructions.
 
-> If unsure, confirm at the start of the renewal period if **online pre-filing** is open for your business type.
+> **BPLO Contact:** Tel. 53365692 / 53365708 · Email: bplo@caloocancity.gov.ph
 
 ---
 

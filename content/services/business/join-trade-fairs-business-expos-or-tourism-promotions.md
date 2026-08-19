@@ -1,4 +1,4 @@
-# Participate in Local Trade Fairs, Business Expos, and Tourism Promotion Activities — Lapu-Lapu City
+# Participate in Local Trade Fairs, Business Expos, and Tourism Promotion Activities — City of Caloocan
 
 Showcase your products and services, meet buyers, and boost your brand by joining **city- and region-led trade fairs, business expos, and tourism promotions**.
 
@@ -110,9 +110,9 @@ Showcase your products and services, meet buyers, and boost your brand by joinin
 
 ---
 
-## Where to Watch for Calls & Schedules (Lapu-Lapu / Cebu)
+## Where to Watch for Calls & Schedules (Caloocan)
 
-- **Lapu-Lapu City**: City Information Office, Business Permits & Licensing Office (BOSS announcements), City Tourism & Cultural Affairs
+- **City of Caloocan**: Public Affairs and Information Division, Business Permit and Licensing Office, Cultural Affairs and Tourism Office
 - **Negosyo Center / MSME Office**: product dev, fairs, OTOP activities
 - **Tourism Bodies**: city/regional tourism offices for travel marts, festivals, Fam tours, MICE events
 - **Chambers & Associations**: local chamber of commerce, hotel/resort associations, exporters’ groups
@@ -120,23 +120,23 @@ Showcase your products and services, meet buyers, and boost your brand by joinin
 
 ---
 
-# Key Local Contacts — Lapu-Lapu City
+# Key Local Contacts — City of Caloocan
 
 Use these offices when coordinating for **trade fairs, business expos, permits, and tourism promotion activities**.
 
 ---
 
-| Office / Role                                                                 | Address / Location                                    | Contact Number  | Email / Other Contact Info                                                                                                                                   |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Business Permit & Licensing Office (BPLO)**                                 | City Hall Main Building, Lapu-Lapu Government Complex | (032) 340-0004  | —                                                                                                                                                            |
-| **PESO Lapu-Lapu City** (Student Employment, Local Promotions)                | Pajo, Lapu-Lapu City, Cebu 6015                       | (032) 340-8264  | Facebook: [PESO Lapu-Lapu City](https://ph.locale.online/peso-lapu-lapu-city-47947610.html)                                                                  |
-| **City Information Office / Treasurer’s Office**                              | Lapu-Lapu City Hall / Hoops Dome during events        | (032) 340-1615  | Updates: [Official Facebook Page](https://www.facebook.com/photo.php?fbid=122128211810564979&id=61566949391179&set=a.122105111324564979)                     |
-| **Lapu-Lapu City Tourism Office**                                             | City Government / Tourism Department                  | +63 32 495-5593 | Email: llctourism.inquiry@gmail.com • [Instagram Location Page](https://www.instagram.com/explore/locations/2149053888682923/lapu-lapu-city-tourism-office/) |
-| **City-Wide Trade Fair / Renewal Venue** (used for permit renewals and expos) | Hoops Dome, Barangay Gun-ob                           | —               | News: [SunStar — Biz Permit Renewals at Hoops Dome](https://www.sunstar.com.ph/cebu/lapu-launches-new-system-for-biz-permit-renewals)                        |
+| Office / Role                                                  | Contact Number                 | Email / Other Contact Info                                                                                   |
+| -------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Business Permit and Licensing Office (BPLO)**                | 53365692 / 53365708            | Email: bplo@caloocancity.gov.ph • Facebook: [BPLO Caloocan City](https://www.facebook.com/BPLOCaloocanCity/) |
+| **Public Employment Service Department (PESD)**                | 53365704 / 53102701 / 53100205 | —                                                                                                            |
+| **Cultural Affairs and Tourism Office (CATO)**                 | 53365593                       | Facebook: [Caloocan Cultural Affairs and Tourism Office](https://www.facebook.com/CATOCaloocan/)             |
+| **City Economic Development and Investment Promotions Office** | Trunkline 8288-8811, ext. 2307 | —                                                                                                            |
+| **Public Affairs and Information Division**                    | 53365598, ext. 2230            | —                                                                                                            |
 
 ---
 
-✅ Tip: Save these contacts and follow their **Facebook pages** — most trade fair and expo announcements in Lapu-Lapu are posted there first.
+✅ Tip: Save these contacts and follow their **Facebook pages** — trade fair and expo announcements are typically posted there first.
 
 ---
 
@@ -144,10 +144,10 @@ Use these offices when coordinating for **trade fairs, business expos, permits, 
 
 > **Subject:** Participation Inquiry – [Your Brand] for [Event Name/Date]  
 > Hello [Organizer Name],  
-> We’re a Lapu-Lapu–based [business type] offering [brief product/service]. We’d like to apply for a booth at **[Event Name]** on **[Date]**.  
+> We’re a Caloocan-based [business type] offering [brief product/service]. We’d like to apply for a booth at **[Event Name]** on **[Date]**.  
 > **Attachments:** Business registration, product list/prices, photos, compliance (FDA/accreditation).  
 > **Needs:** [table + 1 outlet + 500W], ingress day-before preferred.  
-> Thank you and we look forward to promoting Lapu-Lapu products/tourism at your event.  
+> Thank you and we look forward to promoting Caloocan products/tourism at your event.  
 > **Contact:** [Name, Mobile, Email, Links]
 
 ---
