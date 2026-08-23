@@ -10,11 +10,24 @@ import {
 } from '../data/yamlLoader';
 import * as LucideIcons from 'lucide-react';
 import Breadcrumbs from '../components/ui/Breadcrumbs';
-import ServicesSection from '../components/home/ServicesSection';
 import SEO from '../components/SEO';
 import { Card, CardContent } from '@bettergov/kapwa/card';
 import { Banner } from '@bettergov/kapwa/banner';
 import { useState, useEffect } from 'react';
+
+interface ServiceCategory {
+  category: string;
+  slug: string;
+  description: string;
+  icon: string;
+}
+
+function getServiceIcon(name: string) {
+  const IconComponent = LucideIcons[
+    name as keyof typeof LucideIcons
+  ] as React.ComponentType<{ className?: string }>;
+  return IconComponent ? <IconComponent className="h-6 w-6" /> : null;
+}
 
 const Services: React.FC = () => {
   const { category } = useParams();
@@ -45,6 +58,8 @@ const Services: React.FC = () => {
   }, [category, categoryData]);
 
   if (!category) {
+    const allCategories = serviceCategories.categories as ServiceCategory[];
+
     return (
       <>
         <SEO
@@ -52,10 +67,40 @@ const Services: React.FC = () => {
           description={`All services provided by the ${import.meta.env.VITE_GOVERNMENT_NAME} government. Find what you need for citizenship, business, education, and more.`}
           keywords="government services, public services, local government, civic services"
         />
-        <ServicesSection
-          title={`All local government services`}
-          description={`All services provided by the ${import.meta.env.VITE_GOVERNMENT_NAME} government. Find what you need for citizenship, business, education, and more.`}
-        />
+        <Section className="p-3 mb-12">
+          <Breadcrumbs className="mb-8" />
+          <Heading>Services</Heading>
+          <Text className="text-gray-600 mb-6">
+            Every service the {import.meta.env.VITE_GOVERNMENT_NAME} government
+            offers, organized by category. Pick one below to see what it covers
+            and how to get it done.
+          </Text>
+
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            {allCategories.map(cat => (
+              <Link key={cat.slug} to={`/services/${cat.slug}`}>
+                <Card
+                  hoverable
+                  className="h-full border-t-4 border-primary-500 transition-all duration-200 hover:-translate-y-1 hover:shadow-lg"
+                >
+                  <CardContent className="flex flex-col h-full p-5">
+                    <div className="flex items-center gap-3 mb-2.5">
+                      <div className="bg-primary-100 text-primary-600 p-2.5 rounded-md shrink-0">
+                        {getServiceIcon(cat.icon)}
+                      </div>
+                      <h3 className="text-base font-semibold text-gray-900">
+                        {cat.category}
+                      </h3>
+                    </div>
+                    <Text className="text-sm text-gray-600 mb-0">
+                      {cat.description}
+                    </Text>
+                  </CardContent>
+                </Card>
+              </Link>
+            ))}
+          </div>
+        </Section>
       </>
     );
   }
@@ -109,7 +154,7 @@ const Services: React.FC = () => {
                   >
                     <Card
                       hoverable
-                      className="h-full border-t-4 border-primary-500"
+                      className="h-full border-t-4 border-primary-500 transition-all duration-200 hover:-translate-y-1 hover:shadow-lg"
                     >
                       <CardContent>
                         <h4 className="text-lg font-medium text-gray-900">
@@ -135,7 +180,10 @@ const Services: React.FC = () => {
                     key={subcategory.slug}
                     to={`/services/${category}/${subcategory.slug}`}
                   >
-                    <Card hoverable className="mb-4">
+                    <Card
+                      hoverable
+                      className="mb-4 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
+                    >
                       <CardContent>
                         <h4 className="text-lg font-medium text-gray-900">
                           {subcategory.name}

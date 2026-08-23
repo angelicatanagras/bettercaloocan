@@ -129,13 +129,16 @@ export default function WeatherMapSection() {
     : '';
 
   return (
-    <Section>
+    <Section tint="primary" pattern="dots">
+      <p className="font-heading text-xs font-semibold uppercase tracking-widest text-primary-500 mb-2">
+        02 &mdash; Weather &amp; Map
+      </p>
       <Heading level={2} className="font-normal">
         Weather and Map of Caloocan
       </Heading>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-        <Card className="h-fit">
+        <Card className="h-fit bg-white transition-shadow duration-200 hover:shadow-lg">
           <CardContent className="p-6">
             <Text className="text-xs tracking-wide text-gray-500 uppercase mb-2">
               Caloocan, Metro Manila
@@ -213,7 +216,7 @@ export default function WeatherMapSection() {
           </CardContent>
         </Card>
 
-        <Card className="overflow-hidden p-0">
+        <Card className="isolate overflow-hidden bg-white p-0 transition-shadow duration-200 hover:shadow-lg">
           <div className="h-[360px] lg:h-[420px]">
             <MapContainer
               center={[CITY_HALL.lat, CITY_HALL.lon]}
