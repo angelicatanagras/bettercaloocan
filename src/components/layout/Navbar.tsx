@@ -1,12 +1,6 @@
 import React, { useState } from 'react';
-import {
-  X,
-  Menu,
-  ChevronDown,
-  Globe,
-  Search,
-  CheckCircle2,
-} from 'lucide-react';
+import { X, Menu, ChevronDown, Globe, Search } from 'lucide-react';
+import { MonumentoIcon } from '../icons/MonumentoIcon';
 import { mainNavigation } from '../../data/navigation';
 import type { LanguageType } from '../../types/index';
 import { Link } from 'react-router';
@@ -97,7 +91,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <CheckCircle2 className="h-12 w-12 mr-3" />
+              <MonumentoIcon className="h-12 w-12 mr-3 text-primary-600" />
               {/* <img
                 src="/ph-logo.webp"
                 alt="Philippines Coat of Arms"
@@ -120,7 +114,7 @@ const Navbar: React.FC = () => {
               <div key={item.label} className="relative group">
                 <a
                   href={item.href}
-                  className="flex items-center text-gray-700 hover:text-primary-600 font-medium transition-colors"
+                  className="flex items-center rounded-full px-3 py-1.5 text-gray-700 font-medium transition-colors duration-150 hover:bg-accent-50 hover:text-primary-700"
                 >
                   {t(`navbar.${item.label.replace(' ', '').toLowerCase()}`)}
                   {item.children && (
@@ -152,15 +146,15 @@ const Navbar: React.FC = () => {
           </div>
           <div className="hidden lg:flex items-center space-x-6">
             <Link
-              to="/about"
-              className="flex items-center text-gray-700 hover:text-primary-600 font-medium transition-colors"
+              to="/government/departments/executive"
+              className="flex items-center rounded-full px-3 py-1.5 text-gray-700 font-medium transition-colors duration-150 hover:bg-accent-50 hover:text-primary-700"
             >
-              About
+              Contact
             </Link>
             {isMeilisearchEnabled && (
               <Link
                 to="/search"
-                className="flex items-center text-gray-700 hover:text-primary-600 font-medium transition-colors"
+                className="flex items-center rounded-full px-3 py-1.5 text-gray-700 font-medium transition-colors duration-150 hover:bg-accent-50 hover:text-primary-700"
               >
                 <Search className="h-4 w-4 mr-1" />
                 Search
@@ -233,11 +227,11 @@ const Navbar: React.FC = () => {
             🚀 Join Us
           </Link>
           <Link
-            to="/about"
+            to="/government/departments/executive"
             onClick={closeMenu}
             className="block px-4 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-primary-500"
           >
-            About
+            Contact
           </Link>
           {isMeilisearchEnabled && (
             <Link

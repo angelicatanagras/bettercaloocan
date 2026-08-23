@@ -1,8 +1,6 @@
 import { useMemo, useState } from 'react';
-import { Search } from 'lucide-react';
-import * as LucideIcons from 'lucide-react';
+import { Search, ArrowRight } from 'lucide-react';
 import { Link, useNavigate } from 'react-router';
-import { Card, CardContent } from '@bettergov/kapwa/card';
 import { serviceCategories } from '../../data/yamlLoader';
 
 interface Category {
@@ -12,35 +10,32 @@ interface Category {
   icon: string;
 }
 
-// A representative subset of real service categories shown as quick links.
-const POPULAR_SLUGS = [
-  'business',
-  'health-services',
-  'education',
-  'garbage-waste-disposal',
-  'social-welfare',
-  'housing-land-use',
+// A representative subset of real, specific services shown as popular
+// searches — not just category names, so someone can jump straight to
+// the page they actually need.
+const POPULAR_SEARCHES = [
+  {
+    label: 'business permit',
+    href: '/services/business/apply-for-barangay-clearance-and-mayors-business-permits',
+  },
+  {
+    label: 'local hospital',
+    href: '/services/health-services/go-to-the-local-hospital-for-treatment-or-confinement',
+  },
+  {
+    label: 'scholarships',
+    href: '/services/education/apply-for-local-scholarships',
+  },
+  {
+    label: 'garbage schedule',
+    href: '/services/garbage-waste-disposal/check-garbage-collection-schedules-and-request-pickup',
+  },
 ];
-
-function getIcon(name: string) {
-  const IconComponent = LucideIcons[
-    name as keyof typeof LucideIcons
-  ] as React.ComponentType<{ className?: string }>;
-  return IconComponent ? <IconComponent className="h-5 w-5" /> : null;
-}
 
 export default function HeroSearchCard() {
   const [query, setQuery] = useState('');
   const navigate = useNavigate();
   const categories = serviceCategories.categories as Category[];
-
-  const popular = useMemo(
-    () =>
-      POPULAR_SLUGS.map(slug => categories.find(c => c.slug === slug)).filter(
-        (c): c is Category => Boolean(c)
-      ),
-    [categories]
-  );
 
   const matches = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -62,60 +57,59 @@ export default function HeroSearchCard() {
   };
 
   return (
-    <Card className="bg-white text-gray-900 border-t-4 border-primary-300">
-      <CardContent className="p-6">
-        <h3 className="text-lg font-semibold mb-3 flex items-center gap-2">
-          <Search className="h-5 w-5 text-primary-600" />
-          Search Services
-        </h3>
+    <div className="rounded-xl border border-white/10 bg-black/25 p-6 shadow-xl backdrop-blur-sm">
+      <h3 className="flex items-center gap-2 font-heading text-lg font-semibold text-white">
+        <Search className="h-5 w-5 text-accent-300" />
+        Find a Service
+      </h3>
+      <p className="mt-2 text-sm text-white/70">
+        Search every service the City of Caloocan offers &mdash; by what
+        you&rsquo;re trying to do, not which office handles it.
+      </p>
 
-        <form onSubmit={handleSubmit} className="relative mb-4">
-          <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-gray-400" />
-          <input
-            type="text"
-            value={query}
-            onChange={e => setQuery(e.target.value)}
-            placeholder="Search for a service…"
-            className="w-full pl-9 pr-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-1 focus:ring-primary-600 focus:border-primary-600"
-          />
-        </form>
+      <form onSubmit={handleSubmit} className="relative mt-4 flex gap-2">
+        <input
+          type="text"
+          value={query}
+          onChange={e => setQuery(e.target.value)}
+          placeholder="business permit, barangay clearance, hospital…"
+          className="w-full rounded-md border border-white/15 bg-white/5 px-4 py-2.5 text-sm text-white placeholder:text-white/40 transition-colors focus:outline-none focus:ring-2 focus:ring-accent-400 focus:border-transparent"
+        />
+        <button
+          type="submit"
+          aria-label="Search"
+          className="flex shrink-0 items-center justify-center rounded-md bg-accent-500 px-3.5 text-white transition-all duration-200 hover:bg-accent-400 hover:shadow-md active:scale-95"
+        >
+          <ArrowRight className="h-4 w-4" />
+        </button>
+      </form>
 
-        {matches.length > 0 ? (
-          <div className="space-y-1 mb-2">
-            {matches.map(m => (
-              <Link
-                key={m.slug}
-                to={`/services/${m.slug}`}
-                className="block px-3 py-2 rounded-md text-sm text-gray-700 hover:bg-primary-50 hover:text-primary-600"
-              >
-                {m.category}
-              </Link>
-            ))}
-          </div>
-        ) : (
-          <>
-            <p className="text-xs tracking-wide text-gray-500 uppercase mb-3">
-              Popular Services
-            </p>
-            <div className="grid grid-cols-3 gap-3">
-              {popular.map(c => (
-                <Link
-                  key={c.slug}
-                  to={`/services/${c.slug}`}
-                  className="flex flex-col items-center text-center gap-2 p-3 border border-gray-200 rounded-md hover:border-primary-300 hover:bg-primary-50 transition-colors"
-                >
-                  <span className="bg-primary-100 text-primary-600 p-2 rounded-md">
-                    {getIcon(c.icon)}
-                  </span>
-                  <span className="text-xs font-medium text-gray-800">
-                    {c.category}
-                  </span>
-                </Link>
-              ))}
-            </div>
-          </>
-        )}
-      </CardContent>
-    </Card>
+      {matches.length > 0 && (
+        <div className="mt-2 space-y-1 rounded-md border border-white/10 bg-black/30 p-1">
+          {matches.map(m => (
+            <Link
+              key={m.slug}
+              to={`/services/${m.slug}`}
+              className="block rounded px-3 py-2 text-sm text-white/80 transition-colors hover:bg-white/10 hover:text-white"
+            >
+              {m.category}
+            </Link>
+          ))}
+        </div>
+      )}
+
+      <div className="mt-4 flex flex-wrap items-center gap-2">
+        <span className="text-xs text-white/50">Popular:</span>
+        {POPULAR_SEARCHES.map(item => (
+          <Link
+            key={item.label}
+            to={item.href}
+            className="rounded-full border border-accent-400/40 px-3 py-1 text-xs text-accent-200 transition-all duration-200 hover:border-accent-300 hover:bg-accent-500/20 hover:text-accent-100"
+          >
+            {item.label}
+          </Link>
+        ))}
+      </div>
+    </div>
   );
 }
