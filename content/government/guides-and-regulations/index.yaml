@@ -1,0 +1,7 @@
+# Guides and Regulations Pages
+# This file contains all the pages available under Guides and Regulations
+
+pages:
+  - name: 'Ordinances & Resolutions'
+    slug: 'ordinances'
+    description: 'How the Sangguniang Panlungsod (City Council) makes local law, and notable ordinances currently in effect in Caloocan City.'

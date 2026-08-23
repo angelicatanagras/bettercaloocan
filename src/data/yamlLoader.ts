@@ -46,6 +46,7 @@ import governmentDepartmentsIndex from '../../content/government/departments/ind
 import governmentDepartmentsLegislativeIndex from '../../content/government/departments/legislative/index.yaml?raw';
 import governmentReportsAndStatisticsIndex from '../../content/government/reports-and-statistics/index.yaml?raw';
 import governmentTransparencyDocumentsIndex from '../../content/government/transparency-documents/index.yaml?raw';
+import governmentGuidesAndRegulationsIndex from '../../content/government/guides-and-regulations/index.yaml?raw';
 
 // Create a mapping of category slugs to their YAML content
 const categoryIndexMap: { [key: string]: string } = {
@@ -63,6 +64,7 @@ const categoryIndexMap: { [key: string]: string } = {
   legislative: governmentDepartmentsLegislativeIndex,
   'reports-and-statistics': governmentReportsAndStatisticsIndex,
   'transparency-documents': governmentTransparencyDocumentsIndex,
+  'guides-and-regulations': governmentGuidesAndRegulationsIndex,
 };
 
 // Parse the YAML content
@@ -81,10 +83,9 @@ export interface CategoryIndex {
   pages: Subcategory[];
 }
 
-// Function to load category index data
-export async function loadCategoryIndex(
-  categorySlug: string
-): Promise<CategoryIndex> {
+// Parses a category's index.yaml. Synchronous because the raw YAML is
+// already available via static `?raw` imports in categoryIndexMap.
+function parseCategoryIndex(categorySlug: string): CategoryIndex {
   const yamlContent = categoryIndexMap[categorySlug];
   if (!yamlContent) {
     return { layout: 'list', pages: [] };
@@ -106,6 +107,18 @@ export async function loadCategoryIndex(
     );
     return { layout: 'list', pages: [] };
   }
+}
+
+// Function to load category index data
+export async function loadCategoryIndex(
+  categorySlug: string
+): Promise<CategoryIndex> {
+  return parseCategoryIndex(categorySlug);
+}
+
+/** Synchronous variant of loadCategoryIndex, for render-time use (e.g. showing a service count without a loading state). */
+export function getCategoryIndexSync(categorySlug: string): CategoryIndex {
+  return parseCategoryIndex(categorySlug);
 }
 
 // Function to get subcategories for a category (with caching)
