@@ -5,6 +5,7 @@ export interface Subcategory {
   name: string;
   slug: string;
   description?: string;
+  keywords?: string[];
 }
 
 export interface Category {

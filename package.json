@@ -38,6 +38,7 @@
     "leaflet": "^1.9.4",
     "lucide-react": "^0.575.0",
     "meilisearch": "^0.60.0",
+    "minisearch": "^7.2.0",
     "nuqs": "^2.6.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",

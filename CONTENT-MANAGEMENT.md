@@ -117,9 +117,16 @@ pages:
   - name: 'Your Service Name'
     slug: 'your-service-name'
     description: 'Brief description of the service.'
+    # Optional: other words people search for (synonyms, acronyms)
+    keywords: ['other name', 'acronym']
 ```
 
 5. Save the changes
+
+> **Search tip:** The site search matches page names, descriptions, and
+> `keywords`. If people call a service something different from its page
+> name (for example "cedula" for a community tax certificate), add that
+> word to `keywords`. A page appears in search once its `.md` file exists.
 
 ### Method 2: Creating a New Category
 

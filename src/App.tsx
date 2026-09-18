@@ -10,7 +10,6 @@ import Government from './pages/Government';
 import Barangays from './pages/Barangays';
 import Search from './pages/Search';
 import NotFound from './pages/NotFound';
-import { isMeilisearchEnabled } from './lib/meilisearch';
 import { BrowserRouter as Router, Routes, Route } from 'react-router';
 
 function App() {
@@ -36,9 +35,7 @@ function App() {
                 element={<Document categoryType="government" />}
               />
               <Route path="/barangays" element={<Barangays />} />
-              {isMeilisearchEnabled && (
-                <Route path="/search" element={<Search />} />
-              )}
+              <Route path="/search" element={<Search />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
             <Footer />

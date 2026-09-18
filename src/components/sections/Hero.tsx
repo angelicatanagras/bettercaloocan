@@ -7,7 +7,7 @@ import HeroSearchCard from './HeroSearchCard';
 export default function Hero() {
   const { t } = useTranslation();
   return (
-    <div className="relative overflow-hidden bg-gradient-to-br from-primary-700 via-primary-800 to-primary-900 text-white py-14 md:py-24">
+    <div className="relative bg-gradient-to-br from-primary-700 via-primary-800 to-primary-900 text-white py-14 md:py-24">
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-0 text-white opacity-[0.06]"
