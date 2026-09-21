@@ -23,3 +23,13 @@ export interface SearchHit {
   slug: string;
   url: string;
 }
+
+const RESULT_LIMIT = 50;
+
+export async function searchMeilisearch(query: string): Promise<SearchHit[]> {
+  if (!searchClient) return [];
+  const res = await searchClient
+    .index(SEARCH_INDEX)
+    .search<SearchHit>(query, { limit: RESULT_LIMIT });
+  return res.hits;
+}

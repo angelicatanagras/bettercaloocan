@@ -5,6 +5,7 @@ pages:
   - name: "Apply for barangay clearance and mayor's business permits"
     slug: 'apply-for-barangay-clearance-and-mayors-business-permits'
     description: "Step-by-step guide to applying for barangay clearance and mayor's business permits for your business."
+    keywords: ['mayors permit', 'business license', 'business registration']
     
   - name: 'Renew permits and pay local business taxes'
     slug: 'renew-permits-and-pay-local-business-taxes'
