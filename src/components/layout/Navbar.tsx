@@ -3,7 +3,7 @@ import { X, Menu, ChevronDown, Globe, Search } from 'lucide-react';
 import { MonumentoIcon } from '../icons/MonumentoIcon';
 import { mainNavigation } from '../../data/navigation';
 import type { LanguageType } from '../../types/index';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import { useTranslation } from 'react-i18next';
 import { LANGUAGES } from '../../i18n/languages';
 
@@ -111,15 +111,22 @@ const Navbar: React.FC = () => {
           <div className="hidden lg:flex items-center space-x-8 pr-24">
             {mainNavigation.map(item => (
               <div key={item.label} className="relative group">
-                <a
-                  href={item.href}
-                  className="flex items-center rounded-full px-3 py-1.5 text-gray-700 font-medium transition-colors duration-150 hover:bg-accent-50 hover:text-primary-700"
+                <NavLink
+                  to={item.href}
+                  end={item.href === '/'}
+                  className={({ isActive }) =>
+                    `flex items-center rounded-full px-3 py-1.5 font-medium transition-colors duration-150 hover:bg-accent-50 hover:text-primary-700 ${
+                      isActive
+                        ? 'bg-accent-50 text-primary-700'
+                        : 'text-gray-700'
+                    }`
+                  }
                 >
                   {t(`navbar.${item.label.replace(' ', '').toLowerCase()}`)}
                   {item.children && (
                     <ChevronDown className="ml-1 h-4 w-4 text-gray-800 group-hover:text-primary-600 transition-colors" />
                   )}
-                </a>
+                </NavLink>
                 {item.children && (
                   <div className="absolute left-0 mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
                     <div
